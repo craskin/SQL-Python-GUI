@@ -1,10 +1,3 @@
-"""
-Carly Raskin
-COMP 3421
-Assignment 1
-
-"""
-
 import mysql.connector
 import tkinter as tk
 from tkinter import ttk
